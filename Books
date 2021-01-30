@@ -1,0 +1,35 @@
+[
+  {
+      "id": 1,
+      "name": "Leanne Graham",
+      "company": "Organizacion",
+      "posee": "Fisico",
+      "autor": "Sincere@april.biz",
+      "country": "Costa Rica"
+  },
+  {
+       "id": 2,
+      "name": "Leanne Graham",
+      "company": "Organizacion",
+      "posee": "Fisico",
+      "autor": "Sincere@april.biz",
+      "country": "Costa Rica"
+  },
+  {
+      "id": 3,
+      "name": "Leanne Graham",
+      "company": "Organizacion",
+      "posee": "Fisico",
+      "autor": "Sincere@april.biz",
+      "country": "Costa Rica"
+  },
+  {
+      "id": 4,
+      "name": "Leanne Graham",
+      "company": "Organizacion",
+      "posee": "Fisico",
+      "autor": "Sincere@april.biz",
+      "country": "Costa Rica"
+      }
+   }
+]
